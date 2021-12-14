@@ -1,0 +1,35 @@
+_repo: Summer_66882
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Stimson, Eleanor
+    gutenberg_agent_id: '54003'
+    url: http://www.gutenberg.org/2009/agents/54003
+  - agent_name: Brooks, Van Wyck
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '41582'
+    url: http://www.gutenberg.org/2009/agents/41582
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2021-12-04'
+identifiers:
+  gutenberg: '66882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Summer
+url: http://www.gutenberg.org/ebooks/66882
